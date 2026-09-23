@@ -61,6 +61,12 @@ Service providers must protect data through strict confidentiality and security 
 Service providers are prohibited from sharing, disclosing, or transferring data onward to any other party.
 No broader transfer, sharing, or disclosure of consumer data is permitted except where strictly required by law.
 
+Consumer Mobile Data Your data will not be transferred to external organizations, including affiliates, vendors, or service providers.
+
+Limited Handling for Message Delivery If external handling is strictly necessary for compliant message delivery and permitted by the applicable standard, it is limited solely to what is required to deliver the message and for no other purpose.
+
+Protection of Your Information We maintain safeguards designed to prevent unauthorized access, use, or sharing of consumer mobile data.
+
 6. Data Security
 
 We use reasonable administrative, technical, and physical safeguards to protect your personal information from unauthorized access, disclosure, or misuse.
