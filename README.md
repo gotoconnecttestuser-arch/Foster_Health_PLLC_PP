@@ -48,11 +48,18 @@ After you send STOP, you may receive a confirmation message and no further SMS m
 
 For assistance, reply HELP or contact us directly at +1 (331) 251-4805.
 
-5. Information Sharing
+5. Data Sharing and Disclosure
 
-AFC Urgent Care Naperville does not sell, rent, or share your mobile information with third parties or affiliates for marketing or promotional purposes.
+Your data will not be transferred, shared, disclosed, or otherwise provided to any external organizations under any circumstances, except where strictly required by law.
 
-We may share information with service providers that assist us in delivering SMS communications, provided they are contractually obligated to protect your information and use it only for authorized business purposes.
+We do not permit any external organization to use, access, or receive consumer data for its own purposes.
+
+If we use service providers to support website operations, they are not authorized to receive consumer data as external organizations. Any limited access, where strictly necessary for operational support, is subject to strict access controls, confidentiality obligations, and a prohibition on any onward sharing or disclosure.
+
+Access is limited only to what is strictly necessary to perform the specific support function.
+Service providers must protect data through strict confidentiality and security requirements.
+Service providers are prohibited from sharing, disclosing, or transferring data onward to any other party.
+No broader transfer, sharing, or disclosure of consumer data is permitted except where strictly required by law.
 
 6. Data Security
 
